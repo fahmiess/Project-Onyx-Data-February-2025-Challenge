@@ -17,4 +17,10 @@ As urbanization continues to rise globally, understanding demographic trends is 
 
 These insights reveal a significant concentration of population in urban areas, indicating the need for enhanced infrastructure, housing, transportation, and public services to accommodate this growth. Countries such as Uruguay, Argentina, and Venezuela are experiencing particularly high urbanization rates, highlighting the urgency of sustainable urban planning initiatives in these regions.
 
-Data Source: The dataset was obtained from the World Bank: https://data.worldbank.org/topic/19.
+# Data Source
+The dataset was obtained from the World Bank: https://data.worldbank.org/topic/19.
+
+# Structure
+- data: Raw data
+- SA-Dashboard: Main dashboard
+- Imgs: Images and logos used in the dashboard
