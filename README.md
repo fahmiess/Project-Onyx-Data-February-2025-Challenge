@@ -23,4 +23,4 @@ The dataset was obtained from the World Bank: https://data.worldbank.org/topic/1
 # Structure
 - Dataset: Raw data
 - SA-Dashboard: Main dashboard pbix
-- /Asset: Contains Images of formulas and dashboard
+- Asset: Contains Images of formulas and dashboard
