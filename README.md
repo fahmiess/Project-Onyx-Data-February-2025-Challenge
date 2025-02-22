@@ -21,6 +21,6 @@ These insights reveal a significant concentration of population in urban areas, 
 The dataset was obtained from the World Bank: https://data.worldbank.org/topic/19.
 
 # Structure
-- data: Raw data
+- Dataset: Raw data
 - SA-Dashboard: Main dashboard
 - Imgs: Images and logos used in the dashboard
