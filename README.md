@@ -15,6 +15,8 @@ As urbanization continues to rise globally, understanding demographic trends is 
 
 - Total Population of South America: 19.12 billion
 
+![Descriptive Caption](image-file-path)
+
 These insights reveal a significant concentration of population in urban areas, indicating the need for enhanced infrastructure, housing, transportation, and public services to accommodate this growth. Countries such as Uruguay, Argentina, and Venezuela are experiencing particularly high urbanization rates, highlighting the urgency of sustainable urban planning initiatives in these regions.
 
 # Data Source
